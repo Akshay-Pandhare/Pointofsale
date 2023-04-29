@@ -55,7 +55,7 @@ Java 17 or higher.
 2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
 ```
-https://github.com/ajsat007/The-Project-of-Powerful-Point-of-Sale-Application-in-Java.git  Give the example
+https://github.com/Akshay-Pandhare/Pointofsale.git  Give the example
 ```
 
 3.Imported it in NetBean IDE or any other Java IDE.
