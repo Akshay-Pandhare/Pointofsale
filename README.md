@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/ajsat007/The-Project-of-Powerful-Point-of-Sale-Application-in-Java/blob/main/logo_pos1_836b5509-7b49-4372-87f4-5436426ad730_1200x1200.avif" alt="Project logo"></a>
+ <img width=200px height=200px src="https://github.com/Akshay-Pandhare/Pointofsale/blob/main/pos-point-sale-concept-keywords-letters-icons-flat-vector-illustration-isolated-white-background-pos-point-sale-136082541.jpg" alt="Project logo"></a>
 </p>
 
 <h3 align="center">The Point Of Sale Java</h3>
@@ -64,7 +64,7 @@ https://github.com/Akshay-Pandhare/Pointofsale.git  Give the example
 
 # Project Views
 
-![](https://github.com/ajsat007/The-Project-of-Powerful-Point-of-Sale-Application-in-Java/blob/main/Screenshot%20(462).png).png)
+![](https://github.com/Akshay-Pandhare/Pointofsale/blob/main/Screenshot%20(9).png)
 
 # ⛏️ Built Using `<a name = "built_using"></a>`
 - JSwing and JFrames - Windows based application
